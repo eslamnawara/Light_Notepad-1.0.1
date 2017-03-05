@@ -8,4 +8,4 @@ Feel free to report any bug or development ideas.
 
 - https://github.com/eslamnawara
 
-- Contact pro = eslam.nawara_pro@yahoo.com
+- Email Pro (job) = eslam.nawara_pro@yahoo.com
