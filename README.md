@@ -18,7 +18,7 @@ Author = Mr Eslam Nawara - :fr:
 
 - Here is a Screenshot of the application if you want to take a look of the design.
 
-![alt tag](https://github.com/eslamnawara/Light_Notepad-1.0.1/blob/master/Screenshot.jpg) 
+
 
 ## Contact
 
